@@ -1,0 +1,23 @@
+{
+  "name": "@areeba16/rock-scissors-paper-game",
+  "version": "1.0.1",
+  "description": "Simple and fun rock, paper, scissors game implementation for Node.js.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
